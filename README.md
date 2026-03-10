@@ -8,8 +8,8 @@ Manages employees and tracks their daily attendance.
 
 ##  Live Demo
 
-Frontend: 
-Backend API: 
+Frontend: https://hrms-two-ecru.vercel.app/
+Backend API: https://hrms-0zdz.onrender.com
 
 ---
 
